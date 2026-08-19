@@ -343,6 +343,7 @@ p {
 
 .section {
   padding: 5rem 0;
+  scroll-margin-top: 88px;
 }
 
 .section-header {
